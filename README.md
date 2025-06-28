@@ -1,4 +1,4 @@
-# annual-customer-spend-prediction
+# Annual Customer Spend Prediction using Linear Regression
 
 
 ## Project Overview
