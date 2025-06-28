@@ -4,7 +4,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-[![View on Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-blue)](YOUR_KAGGLE_NOTEBOOK_LINK)
+[![View on Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-blue)]([YOUR_KAGGLE_NOTEBOOK_LINK](https://www.kaggle.com/code/mauryaghogare/customer-spend-prediction-with-linear-regression))
 
 ## Project Overview
 This project analyzes an e-commerce dataset to predict how much a customer is likely to spend annually based on their behavior and demographics.
