@@ -53,5 +53,7 @@ A simple linear regression is appropriate for this dataset — regularization di
 
 
 ## Author
-Kaggle: Your Kaggle Profile
-LinkedIn: Your LinkedIn
+Kaggle: [Your Kaggle Profile](https://www.kaggle.com/mauryaghogare)
+
+LinkedIn: www.linkedin.com/in/mauryaghogare
+
